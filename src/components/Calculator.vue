@@ -16,6 +16,9 @@
       <h4>Change: {{ kgDiff}}kg, {{ stDiff}}st, {{ lbsDiff}}lbs</h4>
       <h4>{{ percentage }}% <span v-if="increase">increase</span> <span v-else>decrease</span> </h4>
     </div>
+    <div class="return">
+      <a href="https://github.com/shanegibney/vue-weight-calculator">return to repo</a>
+    </div>
   </div>
 </template>
 

@@ -1,4 +1,4 @@
-Run demo on [gh-pages]()
+Run demo on [gh-pages](https://shanegibney.github.io/vue-calculator-weight)
 
 # weightconverter
 
