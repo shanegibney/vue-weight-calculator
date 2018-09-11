@@ -1,12 +1,12 @@
 Run demo on [gh-pages](https://shanegibney.github.io/vue-calculator-weight)
 
-# weightconverter
+# Weight Converter
 
 Convert weight (mass) from any of kg, st and lbs to the other two units.
 
 Compare to another weight to find the difference in kg, stone and lbs. Also calculates percentage difference.
 
-Note: The word 'weight' is used as it is commonly used. However this code converts mass not weight.
+Note: The word 'weight' is used as it is commonly used to refer to mass. This code actually converts mass not weight.
 
 ## Build Setup
 
